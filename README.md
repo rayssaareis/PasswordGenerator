@@ -12,12 +12,10 @@ This project was created as a personal learning exercise in Java development, fo
 
 - [Overview](#overview)  
 - [Inspiration](#inspiration)  
-- [Features](#features)  
-- [Usage](#usage)  
+- [Features](#features)
 - [Technical Details](#technical-details)  
 - [Diceware Word List](#diceware-word-list)  
 - [Credits](#credits)  
-- [License](#license)  
 
 ---
 
